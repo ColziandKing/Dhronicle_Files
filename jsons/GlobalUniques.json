@@ -16,6 +16,7 @@
 			"[-3] Unit Supply per city", 
 	  "Triggers a [Woah Policy] event <upon entering the [Medieval era]>",
 	  "Triggers a [Another Policy] event <upon entering the [Industrial era]>",
+	  "[-55]% maintenance costs <for [Water] units>","[-20]% maintenance costs <for [Land] units>",
 	        "Free [Settler] appears <for [Major] Civilizations> <upon entering the [Classical era]>",
 	        "Free [Settler] appears <for [City-States] Civilizations> <upon entering the [Classical era]>",
 	        "[3] free [Landsknecht] units appear <for [City-States] Civilizations> <upon entering the [Medieval era]>",
