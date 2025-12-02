@@ -102,7 +102,7 @@
 		"unhappinessModifier": 1,
 		"barbarianBonus": 0.33,
 		"barbarianSpawnDelay": 0,
-		"playerBonusStartingUnits": ["Tokl","Mechanized Infantry","Mechanized Infantry"],
+		"playerBonusStartingUnits": ["Tokl"],
         "aiDifficultyLevel": "Prince",
 		"aiCityGrowthModifier": 1,
 		"aiUnitCostModifier": 1,
