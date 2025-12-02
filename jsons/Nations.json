@@ -288,7 +288,7 @@
 		"uniques": [
 "Starts with [Animal Husbandry] <hidden from users>", 
 "Starts with [Agriculture] <hidden from users>", 
-"[3] free [Jannisary] units appear",
+"[3] free [Janissary] units appear",
 "[3] free [Sipahi] units appear <hidden from users>",
 			"[+50]% Production when constructing [Siege] units [in all cities] <during the [Renaissance era]>", "[+50]% Strength <for [Siege] units> <vs cities> <during the [Renaissance era]>", "[+50]% XP gained from combat <for [Siege] units> <during the [Renaissance era]>", 
 			"[-66]% maintenance costs <for [Water] units>","[+2 Happiness] [in all cities in which the majority religion is a major religion]",
@@ -1113,7 +1113,7 @@
 		"uniques": [
 "Starts with [Mining] <hidden from users>", 
 "Starts with [Pottery] <hidden from users>", 
-"[6] free [Atlatl] units appear <hidden from users>",
+"[6] free [Atlatlist] units appear <hidden from users>",
 "Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
 			"Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count.",
                     "[+2 Food] [in all cities with a garrison]","Allied City-States provide [Culture] equal to [+50]% of what they produce for themselves"],
@@ -1428,7 +1428,7 @@
 "Starts with [Animal Husbandry] <hidden from users>", 
 "Starts with [Agriculture] <hidden from users>", 
 "[3] free [Pathfinder] units appear <hidden from users>",
-"[3] free [Commanche Riders] units appear <hidden from users>",
+"[3] free [Comanche Riders] units appear <hidden from users>",
 			"Gain control over [8] tiles [in this city] <upon founding a city>",
 			"[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>","[+15]% Strength <for [Military] units> <in [Plains] tiles>",
 			// Start with Pathfinders instead of Warriors. While this works, it could possibly be exploited by buying Warriors before clicking end turn.
