@@ -1117,8 +1117,8 @@
 				"uniques": [
 					// TODO: +34% Tourism to other Order Civilizations.
 					"Provides [2] [Tourism]",
-                    "[Gunpowder] units gain the [Enemy Blade] promotion",
-                    "All newly-trained [Gunpowder] units [in all cities] receive the [Enemy Blade] promotion <hidden from users>",
+                    "[Gunpowder] units gain the [Invulnerability] promotion",
+                    "All newly-trained [Gunpowder] units [in all cities] receive the [Invulnerability] promotion <hidden from users>",
 					"Instantly provides [1] [Level 2 Policy] <hidden from users>",
 					"Instantly consumes [1] [Level 1 Policy] <hidden from users>",
 					"Only available <when above [1] [Level 1 Policy]> <hidden from users>"
