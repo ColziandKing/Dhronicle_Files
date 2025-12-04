@@ -1507,6 +1507,7 @@
 "Starts with [Pottery] <hidden from users>", 
 "Starts with [Animal Husbandry] <hidden from users>", 
 "[6] free [Camel Archer] units appear <hidden from users>",
+				"Adopt [Tradition] <hidden from users>",
 			"Caravans gain 50% extended range", // @see Unit/Caravan
 			"[+10]% Spread Religion Strength", // TODO: Your Trade Routes spread the home city's Religion twice as effectively
 			"[+100]% [Oil] resource production","[+1 Faith] from every [Stone]",
@@ -1547,6 +1548,7 @@
 "Starts with [Animal Husbandry] <hidden from users>",
 "[3] free [Foreign Legion] units appear <hidden from users>", 
 "[3] free [Musketeer] units appear <hidden from users>",
+				"Adopt [Aesthetics] <hidden from users>",
 			"[+1 Culture] [in all cities] <before discovering [Steam Power]>",
 			"Preferred Ideology: Order",
 			"City of Light"
@@ -1585,6 +1587,7 @@
 "Starts with [Sailing] <hidden from users>", 
 "Starts with [Animal Husbandry] <hidden from users>", 
 "[6] free [Samurai] units appear <hidden from users>",
+				"Adopt [Honor] <hidden from users>",
 			"No damage penalty for wounded units <for [non-air] units>",
 			"[+1 Culture] from every [Fishing Boats]",
 			"[+2 Culture] from every [Atoll]",
@@ -1626,6 +1629,7 @@
 "Starts with [Trapping] <hidden from users>", 
 "[3] free [Panzer] units appear <hidden from users>",
 "[3] free [Landsknecht] units appear <hidden from users>",
+				"Adopt [Rationalism] <hidden from users>",
             "When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>",
 			"[-25]% maintenance costs <for [Land] units>",
             "[+1 Science, +1 Production] from every [Windmill]",
@@ -1672,6 +1676,7 @@
 "Starts with [Sailing] <hidden from users>", 
 "Starts with [Agriculture] <hidden from users>", 
 "[6] free [Mohawk Warrior] units appear <hidden from users>",
+				"Adopt [Liberty] <hidden from users>",
 			"All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.",
 			"Comment [[Caravan]s get double movement in [{Forest} {Jungle}]]", // @see Unit/Caravans and Promotion/The Great Warpath
 			"Gain [150] [Production] <in cities with a [Longhouse]>",
